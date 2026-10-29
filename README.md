@@ -21,8 +21,6 @@ Lightweight YOLO detectors for wildfire smoke, a zero-shot cross-domain test, an
 │   └── 02_satellite_fasdd_rs_crossdomain_fusion.ipynb
 ├── exploratory/
 │   └── ts_satfire_temporal_unet_dropped.ipynb
-├── paper/
-│   └── IIM_CONFERENCE.pdf
 ├── requirements.txt
 └── README.md
 
