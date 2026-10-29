@@ -2,7 +2,7 @@
 
 Lightweight YOLO detectors for wildfire smoke, a zero-shot cross-domain test, and simulated ground–satellite late fusion.
 
-Code for the paper **"Ground–Satellite Smoke Detection: Lightweight YOLO Detectors, Cross-Domain Evaluation, and Calibrated Late Fusion"** (Akaash M K, Deepsikha K V, Dr. Arivoli A, Vellore Institute of Technology). PDF in `paper/`.
+**"Ground–Satellite Smoke Detection: Lightweight YOLO Detectors, Cross-Domain Evaluation, and Calibrated Late Fusion"** (Akaash M K, Deepsikha K V, Dr. Arivoli A, Vellore Institute of Technology)
 
 > **Important:** All fusion results are *simulated* from independently sampled ground and satellite images. They are not synchronized ground–satellite observations, so they show trade-offs, not operational benefit.
 
